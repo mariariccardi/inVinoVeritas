@@ -20,6 +20,8 @@ public class User {
 		USER		
 	}
 	
+	
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
